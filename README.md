@@ -14,6 +14,6 @@ In my first Logic Programming class I could see myself doing that for the rest o
 
 🛫 Later on I've decided to challenge myself and get out of my comfort zone trying an international career.
 
-🔭 I’m currently living in Linz, Austria, working as a Software Engineer and using technologies such as Kubernetes , Docker, Git, Java, Shell Script and OpenTelemetry, just to quote some.
+🔭 I’m currently living in Linz, Austria, working as a Developer Advocate and using technologies such as Kubernetes, Docker, Git, Java, Shell Script and OpenTelemetry, just to quote some.
 
 That's basically how my journey has started...
