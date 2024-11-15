@@ -1,19 +1,31 @@
-### Hello 👋,  I'm Juliano (He/Him) and since 1989 I've been around.
+# Hello there 👋🏽
 
-⚡ Fun fact: I'd say that the first years of my life I didn't achieve so much, but there was a story about myself eating a bug that my mother used to love sharing with everyone 😄.
+I'm Juliano (He/Him) around since 1989.
 
-When I was 7 I felt in love with basketball 🏀 in a country that almost every single person loves football ⚽, yes, I'm from Brazil 🇧🇷.
-I've dedicated myself to the sport till 17 and I couldn't see another outcome but starting a Physical Education course, once becoming a professional player wasn't one of my options.
+🐛 Fun fact: My mother loved sharing this story—when I was a baby crawling around the
+house, she once heard a “crack” sound. She rushed over, checked my mouth, and found I
+was munching on a centipede! Safe to say, I’ve been catching bugs since early in life. 😄
 
-During my graduation I've realized that Physical Education is a lot more than just basketball, and even though I knew that I wouldn't like to work with it, I've decided to get the course done considering that I was in a good University and knowledge is never too much 🤓.
+Originally from Brazil 🇧🇷, I now live in Austria 🇦🇹 with my wife and child.
 
-After completing the course I've started a technical IT course focused in software development, and that was the third time that I felt in love in my whole life.
-Yes, third, because between basketball and IT I met my beloved wife 😍.
+As a ☁️ CNCF Ambassador, I help organize the Cloud Native Linz meetup. If you're in the
+region, feel free to join us on our [Meetup page](https://www.meetup.com/Cloud-Native-Linz)
+or [Community CNCF page](https://community.cncf.io/linz/). We host monthly events focused
+on Cloud Native topics.
 
-In my first Logic Programming class I could see myself doing that for the rest of my life. During my last semester in the course, I've got my first job in IT in a multinational company, where I could work for 3 years with technologies such as Java, Spring, PL/SQL, Shell Script and Git.
+I also had the pleasure of being part of the team organizing
+[KCD Austria 2024](https://kcdaustria.at/).
 
-🛫 Later on I've decided to challenge myself and get out of my comfort zone trying an international career.
+Currently, I work as a Developer Advocate at [Datadog](https://www.datadoghq.com/),
+focusing on OpenTelemetry.
 
-🔭 I’m currently living in Linz, Austria, working as a Developer Advocate and using technologies such as Kubernetes, Docker, Git, Java, Shell Script and OpenTelemetry, just to quote some.
+I'm a maintainer of the [OpenTelemetry Demo](https://github.com/open-telemetry/opentelemetry-demo),
+a microservice-based distributed system that demonstrates OpenTelemetry implementation
+in a near-real-world environment.
 
-That's basically how my journey has started...
+📫 Let's connect! You can reach me at:
+
+* Website: https://jcosta.dev/
+* Mastodon: https://mastodon.social/@julianocosta89
+* Bluesky: https://bsky.app/profile/jcosta.dev
+* LinkedIn: https://www.linkedin.com/in/julianocosta89
