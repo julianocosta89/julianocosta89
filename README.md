@@ -25,7 +25,7 @@ in a near-real-world environment.
 
 📫 Let's connect! You can reach me at:
 
-* Website: https://jcosta.dev/
-* Mastodon: https://mastodon.social/@julianocosta89
-* Bluesky: https://bsky.app/profile/jcosta.dev
-* LinkedIn: https://www.linkedin.com/in/julianocosta89
+* [Website](https://jcosta.dev/)
+* <a rel="me" href="https://mastodon.social/@julianocosta89">Mastodon</a>
+* [Bluesky](https://bsky.app/profile/jcosta.dev)
+* [LinkedIn](https://www.linkedin.com/in/julianocosta89)
