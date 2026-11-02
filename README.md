@@ -16,8 +16,8 @@ on Cloud Native topics.
 I also had the pleasure of being part of the team organizing
 [KCD Austria 2024](https://kcdaustria.at/).
 
-Currently, I work as a Developer Advocate at [Datadog](https://www.datadoghq.com/),
-focusing on OpenTelemetry.
+Currently, I work as a Principal Developer Relations Engineer at [Dash0](https://www.dash0.com/),
+focusing on spreading the OpenTelemetry word.
 
 I'm a maintainer of the [OpenTelemetry Demo](https://github.com/open-telemetry/opentelemetry-demo),
 a microservice-based distributed system that demonstrates OpenTelemetry implementation
